@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Maarten Balliauw</Authors>
+    <Company>MyGet</Company>
+    <Description>Creates a .NET Standard package by convention.</Description>
+    <Copyright>Maarten Balliauw</Copyright>
+  </PropertyGroup>
+
+</Project>
